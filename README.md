@@ -1,4 +1,4 @@
-# Autojudge-project-aanvi-Jha-2
+# Autojudge-project
 AutoJudge — Predicting Programming Problem Difficulty
                                                        AANVI JHA (24114002)
 
