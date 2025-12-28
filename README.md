@@ -27,7 +27,7 @@ Evaluation Metrics
 
 
 Results
-Achieved a classification accuracy of 48.48 % and MAE ~1.7, RSME~2.04.
+Achieved a classification accuracy of 48.48 % and MAE 1.7, RSME 2.04.
 This shows reasonable MAE and RMSE given subjective difficulty scores.
 
 
